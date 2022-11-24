@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldc45&label=Profile%20views&color=0e75b6&style=flat" alt="ldc45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldc45" alt="ldc45" /></a> </p>
-
 - 🔭 I’m currently working on [Onygo](https://github.com/ldc45/Onygo)
 
 - 🌱 I’m currently learning **Angular, React , PHP**
