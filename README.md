@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ludovic</h1>
 <h3 align="center">A passionate (student) web developer from France</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ldc45&label=Profile%20views&color=0e75b6&style=flat" alt="ldc45" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/98770184/204093704-c817f688-a1e6-4a0a-abc2-47ebe6aeb801.gif" alt="drawing" width="200"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ldc45&label=Profile%20views&color=0e75b6&style=flat" alt="ldc45" /> </p>
 
 - 🔭 I’m currently working on [Onygo](https://github.com/ldc45/Onygo)
 
