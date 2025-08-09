@@ -23,7 +23,7 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
   - 🌟 **[SkillSwap](https://skillswap.koyeb.app/)** - Plateforme d'échange de compétences (Nest/Next)
 
 - 🎓 **Formation :** Titre RNCP niveau 6 chez O'clock (Jan 2024 - Juil 2025)
-- 💼 **En alternance :** Web and Co 2.0 depuis mars 2024
+- 💼 **Alternance terminée :** Web and Co 2.0 (mars 2024 - août 2024)
 - 🌱 **Spécialisations :** Architecture Backend, GraphQL, Orchestration & Cybersécurité, IA
 - 🎯 **Compétences clés :** Problem solving, développement d'APIs robustes, intégration de données
 - ⚡ **Passion :** Transformer des problématiques métier complexes en solutions élégantes !
@@ -33,20 +33,25 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
 ## 🏢 Expérience Professionnelle
 
 ### 💼 **Web and Co 2.0** - Concepteur Développeur d'Applications
-**Mars 2025 - Présent | Application d'extraction de données financières**
+**Mars 2024 - Août 2024 | Alternance**
+
+**📊 Application d'extraction de données financières**
 - 🤖 Développement d'un service d'analyse de documents PDF avec l'API Anthropic
 - ⚙️ Implémentation d'un système de traitement par lots
 - 🔄 Création d'une API robuste pour l'analyse documentaire
+- 🔒 *Projet confidentiel client - Non disponible publiquement*
 
-**Décembre 2024 - Présent | ERP Entreprise de Maçonnerie**
+**🏗️ ERP Entreprise de Maçonnerie**
 - 🏗️ Développement complet d'un ERP (gestion chantiers, clients, facturation)
 - 🔄 Refactorisation des services de traitement par lots
 - 📅 Automatisation par schedulers
+- 🔒 *Projet confidentiel client - Non disponible publiquement*
 
-**Avril - Juin 2024 | API Agence Immobilière**
+**🏠 API Agence Immobilière**
 - 🏠 Intégration plateforme immobilière / WordPress via API Apimo
 - 🔔 Système complet de gestion d'alertes client personnalisables
 - 📧 Notifications email/SMS automatiques
+- 🔒 *Projet confidentiel client - Non disponible publiquement*
 
 ---
 
@@ -58,7 +63,7 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
 </p>
 
 ### Frontend
@@ -98,23 +103,15 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
 - 🎨 Interface moderne et responsive
 - 🔄 API REST robuste avec authentification
 
-### 📊 **Extracteur de Données Financières** - *En développement*
-**Stack :** Java Spring Boot • Angular • API Anthropic
-- 🤖 IA pour l'analyse de documents PDF
-- ⚙️ Traitement par lots optimisé
-- 📈 Extraction automatisée de données financières
+### 📊 **Projets Professionnels** - *Réalisés en alternance*
+**Stack :** Java Spring Boot • Angular • PostgreSQL/API Anthropic
 
-### 🏗️ **ERP Maçonnerie** - *En production*
-**Stack :** Java Spring Boot • Angular • PostgreSQL
-- 👥 Gestion complète des chantiers et clients
-- 💰 Module de facturation intégré
-- 📅 Planification automatisée par schedulers
+**🔐 Projets confidentiels clients :**
+- 📊 **Extracteur de données financières** : IA pour analyse PDF, traitement par lots
+- 🏗️ **ERP Maçonnerie** : Gestion complète chantiers/clients/facturation
+- 🏠 **API Immobilière** : Intégration Apimo/WordPress, alertes personnalisées
 
-### 🏠 **API Immobilière** - *Déployé*
-**Stack :** Java Spring Boot • Angular • API Apimo
-- 🔄 Synchronisation automatique WordPress
-- 🔔 Système d'alertes personnalisables
-- 📧 Notifications multi-canaux (Email/SMS)
+*Ces projets ne sont pas disponibles publiquement pour des raisons de confidentialité client.*
 
 ---
 
@@ -162,11 +159,7 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
 
 ---
 
-## 🏆 Réalisations & Compétences
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ldc45&theme=onedark&row=1&column=6" alt="trophies"/>
-</p>
+## 🏆 Compétences & Expertise
 
 ### 🎯 Domaines d'expertise
 - **🔧 Développement d'APIs** : REST, GraphQL, intégrations tierces
@@ -213,10 +206,6 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ldc45/ldc45/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
@@ -224,6 +213,6 @@ Développeur passionné en formation **Concepteur Développeur d'Applications** 
 
 <div align="center">
   <h3>🚀 Ouvert aux opportunités de développement full-stack ! 🚀</h3>
-  <p><em>📍 Région Centre-Val de Loire • 💼 Alternance chez Web and Co 2.0 • 🎓 Diplômé en juillet 2025</em></p>
+  <p><em>📍 Région Centre-Val de Loire • 🎓 Diplômé juillet 2025 • 💼 Recherche CDI</em></p>
   <p><strong>⭐ N'hésitez pas à explorer mes repositories ! ⭐</strong></p>
 </div>
