@@ -39,7 +39,7 @@ Développeur passionné **diplômé Concepteur Développeur d'Applications** che
 ## 💼 Expérience Professionnelle
 
 ### 🏢 **Web and Co 2.0** - Concepteur Développeur d'Applications
-**Mars 2024 - Août 2024 | Alternance**
+**Janvier 2024 - Août 2025 | Alternance**
 
 <table>
   <tr>
